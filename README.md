@@ -1,7 +1,7 @@
 # <span style="color:#006f3f">**Starbucks Frequency reservation OCR**</span>
 
 <p align="center">
-	<img src="https://github.com/thdwoqor/Starbucks-Frequency-OCR/blob/master/screenshot/main.png?raw=true" alt="icon" width="40%" height="40%"/>
+	<img src="https://github.com/thdwoqor/Starbucks-Frequency-OCR/blob/master/screenshot/main.png?raw=true" alt="icon" width="60%" height="60%"/>
 </p>
 
 스타벅스 프리퀀시 예약을 도와주는 프로그램 입니다.
